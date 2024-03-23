@@ -15,3 +15,6 @@ EasyFood is an app that makes making food easier and gives you full information 
 - Coroutines : do some code in the background.
 - view binding : instead of inflating views manually view binding will take care of that.
 - Glide : Catch images and load them in imageView.
+
+## Credit
+https://www.youtube.com/@Landofcoding
