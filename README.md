@@ -8,7 +8,7 @@ EasyFood is an app that makes making food easier and gives you full information 
 <img src="https://github.com/xryar/EasyFood/assets/96641670/f93f68b2-b31e-4a87-9e17-aeae3e08c864"  width="250" height="500">
 
 # Libraries and technologies used
-- Navigation component : one activity contains multiple fragments instead of creating multiple activites.
+- Navigation component : one activity contains multiple fragments instead of creating multiple activities.
 - Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object.
 - Room : Save meals in local database.
 - MVVM & LiveData : Saperate logic code from views and save the state in case the screen configuration changes.
